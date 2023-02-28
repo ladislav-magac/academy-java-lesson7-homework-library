@@ -9,14 +9,5 @@ public class ScientificBook extends Book {
 	
 	
 	private String scientificArea;
-
-	
-	public String getScientificArea() {
-		return scientificArea;
-	}
-
-	public void setScientificArea(String scientificArea) {
-		this.scientificArea = scientificArea;
-	}
 	
 }

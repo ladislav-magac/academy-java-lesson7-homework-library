@@ -15,29 +15,4 @@ public class Book {
 	
 	private int pagesNumber;
 	
-
-	public String getBookName() {
-		return bookName;
-	}
-
-	public void setBookName(String bookName) {
-		this.bookName = bookName;
-	}
-
-	public String getBookAuthor() {
-		return bookAuthor;
-	}
-
-	public void setBookAuthor(String bookAuthor) {
-		this.bookAuthor = bookAuthor;
-	}
-
-	public int getPagesNumber() {
-		return pagesNumber;
-	}
-
-	public void setPagesNumber(int pagesNumber) {
-		this.pagesNumber = pagesNumber;
-	}
-	
 }
